@@ -2,7 +2,7 @@
 # Gson and Object Hierarchies
 
 
-[Gson][1] is a small Java library for serializing objects into json and deserializing json back to java objects. 
+[Gson][1] is a small Java library for serializing objects into JSON and deserializing JSON back to java objects.
 But how can we deal with object polymorphism in Gson?
 
 
